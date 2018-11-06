@@ -1,0 +1,16 @@
+[
+  {
+    "name": "robot",
+    "className": "com.angrycow1111.simpleioc.entity.Robot"
+  },
+
+  {
+    "name": "hand",
+    "className": "com.angrycow1111.simpleioc.entity.Hand"
+  },
+
+  {
+    "name": "mouth",
+    "className": "com.angrycow1111.simpleioc.entity.Mouth"
+  }
+]
